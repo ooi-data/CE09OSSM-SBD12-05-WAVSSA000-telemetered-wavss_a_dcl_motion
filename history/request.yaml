@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_motion
 last_request: '2022-01-21T02:26:57.341473Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_motion/main/history/response.json
-status: pending
+status: success
